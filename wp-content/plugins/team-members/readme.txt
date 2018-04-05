@@ -1,4 +1,4 @@
-﻿=== Team Members ===
+=== Team Members ===
 Contributors: spwebguy
 Tags: team, teams, meet the team, shortcode, responsive, members, staff, people
 Requires at least: 3.6
@@ -51,6 +51,11 @@ Go to [the plugin's documentation](https://wpdarko.zendesk.com/hc/en-us/articles
 The free version of the Team Members plugin is **not limited**.
 
 The [PRO version](http://wpdarko.com/items/team-members-pro/) adds new features: New picture on hover, pictures’ shape, enabling/disabling picture borders, picture position It also allows you to show from 1 to 5 members per line, add filters to your pictures, set a color for each member instead of one general color for everybody (good for distinguishing your staff). Two more links can be added to each member.
+
+= Ready for translation =
+* POT files included (/lang/)
+* French translation included
+* Spanish translation included
 
 = Usage =
 Go to [the plugin's documentation](https://wpdarko.zendesk.com/hc/en-us/articles/206303627-Get-started-with-the-Team-Members-plugin) if you need more information on how to use this plugin.

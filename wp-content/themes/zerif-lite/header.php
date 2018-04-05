@@ -48,6 +48,8 @@ if ( is_front_page() && ! is_customize_preview() ) :
 		endif;
 
 	endif;
+		
+
 	?>
 
 
@@ -84,6 +86,7 @@ if ( is_front_page() && ! is_customize_preview() ) :
 
 						<?php
 
+						
 						if ( has_custom_logo() ) {
 
 							the_custom_logo();
@@ -115,14 +118,16 @@ if ( is_front_page() && ! is_customize_preview() ) :
 
 								<p class="site-description"></p>
 
-								<?php endif; ?>
+								<?php endif;
+								
+								?>
 
 							</div> <!-- /.site-title-tagline-wrapper -->
 
 						<?php } ?>
 
 					</div> <!-- /.navbar-brand -->
-
+				
 				</div> <!-- /.navbar-header -->
 
 			<?php zerif_primary_navigation_trigger(); ?>
@@ -130,6 +135,7 @@ if ( is_front_page() && ! is_customize_preview() ) :
 		</div> <!-- /.container -->
 
 		<?php zerif_after_header_container_trigger(); ?>
+		
 
 	</div> <!-- /#main-nav -->
 	<!-- / END TOP BAR -->

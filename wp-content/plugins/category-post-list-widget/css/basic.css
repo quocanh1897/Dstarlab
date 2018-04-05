@@ -1,0 +1,40 @@
+.widget_dimension{width:20%;margin-top:5px;}
+.text_alignment{text-align: center;}
+.display{width:200px;}
+
+.hide{display: none !important;}
+.lbl_display{vertical-align: top}
+label.lbl_cplw{margin-right: 15px !important;}
+label.lbl_width{margin-right: 19px !important;}
+label.lbl_effects{margin-right: 19px !important;}
+label.lbl_thumb_h{margin-right: 11px !important;}
+label.error{display: none !important;}
+input.error{border-color: #ff0000 !important}
+.width_wrapper{float: left !important; margin-right: 20px !important;}
+.input_date_format{margin-right: 10px;}
+
+.view_all_link{float: right; margin-right: 20px;}
+
+.post-widget-column {float: left;width: 49%;}
+.post-widget-column-box-top {margin-top: 0;}
+.post-widget-column-box {background: #f1f1f1 none repeat scroll 0 0;border: 1px solid #ddd;margin-top: 10px;padding: 10px 10px 0;}
+.post-widget-column-right {margin-left: 2%;}
+.custom-css-page h1{font-size: 23px;font-weight: 400;line-height: 29px;}
+.custom-css-page #custom-css {font-family: Consolas,"Courier New",monospace;line-height: 20px;box-sizing: border-box;padding: 3px;background: #ffffff none repeat scroll 0 0;border: 1px solid #cccccc;border-radius: 3px;color: #333333;margin: 0;min-height: 24px;padding: 0 3px;vertical-align: top;}
+
+.post-widget-column.post-left-box {margin-right: 2%}
+.post-widget-column-right {margin-left:0%;margin-bottom: 2%}
+.dimension {width: 100%;}
+.dimension .dimension-inner:first-child {display: inline-block;width:39%;}
+.dimension .dimension-inner:last-child {display: inline-block;width:59%;}
+.dimension-inner input {min-width:74px;}
+
+label.lbl_cplw, label.lbl_width, label.lbl_thumb_h {width:100%;margin:5px 0;display:block;}
+.frm_shortcode select, .frm_shortcode input, .frm_shortcode textarea {padding: 8px;width: 100%;}
+.frm_shortcode input[type="submit"] {width: auto;}
+.hwdiv .width_wrapper, .hwdiv .height_wrapper {float: left;width: 47%;}
+.hwdiv .width_wrapper input, .hwdiv .height_wrapper input {width:90%}
+.submitBtn {float: left;margin: 15px 0;}
+body.forceColors {overflow-x: hidden;}
+.hwdiv {overflow: hidden;}
+p.p-taxonomy, p.p-taxonomy-term {margin: 0;}

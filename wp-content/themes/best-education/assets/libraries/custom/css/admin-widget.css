@@ -1,0 +1,7 @@
+.image-preview-wrap {
+    margin: 20px 45px;
+}
+
+.image-preview-wrap img {
+    max-width: 100%;
+}

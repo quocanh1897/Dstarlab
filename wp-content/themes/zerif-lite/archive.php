@@ -30,8 +30,12 @@ get_header(); ?>
 
 					<?php
 						/* Title */
-						zerif_page_header_title_archive_trigger();
-
+						//zerif_page_header_title_archive_trigger();
+if (is_category()) {
+  printf('<h1 class="entry-title">%s</h1>', single_cat_title('', false));
+} else {
+  the_archive_title('<h1 class="entry-title">', '</h1>');
+}
 						/* Optional term description */
 						zerif_page_term_description_archive_trigger();
 					?>

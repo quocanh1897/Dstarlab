@@ -1,0 +1,1185 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Best Education\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-01 04:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:51 inc/template-tags.php:82
+msgid " "
+msgstr ""
+
+#: inc/about/about.php:20
+#, php-format
+msgid ""
+" First off, We’d like to extend a warm welcome and thank you for choosing "
+"%1$s. %1$s is now installed and ready to use. We want to make sure you have "
+"the best experience using the theme and that is why we gathered here all the "
+"necessary information for you. We would like to suggest you to use all our "
+"recommend plugins especially Education Connect to get full advantage of this "
+"theme. Again, Thanks for using our theme!"
+msgstr ""
+
+#: inc/template-tags.php:59
+msgid "% Comments"
+msgstr ""
+
+#: inc/about/about.php:85
+#, php-format
+msgid ""
+"%1$s plugin should be installed and activated. After plugin is activated, "
+"visit Import Demo Data menu under Appearance."
+msgstr ""
+
+#: inc/about/class.about.php:232
+#, php-format
+msgid "%s() method does not exist."
+msgstr ""
+
+#. %s: Name of current post
+#: inc/template-tags.php:66
+#, php-format
+msgid "(Edit This Post) %s"
+msgstr ""
+
+#: inc/customizer/theme-option.php:192 inc/customizer/theme-option.php:765
+#: inc/customizer/theme-option.php:936 inc/customizer/theme-option.php:1412
+msgid "1"
+msgstr ""
+
+#: inc/template-tags.php:59
+msgid "1 Comment"
+msgstr ""
+
+#: inc/customizer/theme-option.php:193 inc/customizer/theme-option.php:766
+#: inc/customizer/theme-option.php:937 inc/customizer/theme-option.php:1413
+msgid "2"
+msgstr ""
+
+#: inc/customizer/theme-option.php:194 inc/customizer/theme-option.php:767
+#: inc/customizer/theme-option.php:938 inc/customizer/theme-option.php:1414
+msgid "3"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/about/class.about.php:121 inc/about/class.about.php:122
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: inc/customizer/theme-option.php:303
+msgid "About Section Settings"
+msgstr ""
+
+#: inc/widget-init.php:13
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer/theme-option.php:1121
+msgid "Additional Button Text"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1139
+msgid "Additional Button URL Link"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1463
+msgid "Advanced"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1457
+#, php-format
+msgid "Advanced: Requires %1$sBreadcrumb NavXT%2$s plugin"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1304
+msgid "Archive Image Alocation"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1283
+msgid "Archive Layout"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#: inc/widgets/widgets.php:93
+msgid "BE: Message Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:201
+msgid "BE: Social Menu Widget"
+msgstr ""
+
+#. Name of the theme
+msgid "Best Education"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Best Education is the flexible and highly responsive wordpress theme that "
+"helps in creating the best website for education instituitions like schools, "
+"colleges, primary schools, universities and various others business related "
+"to the education, teaching and learning. It has many features that supports "
+"all the functionalities of an educational website. Loaded with powerful "
+"plugin named \"Education Connect\", helps in creating the outstanding "
+"website for your school or college within a very less time. By featuring a "
+"responsive layout, it is clear that visitors can use any mobile device or "
+"desktop screen for reaching the website. It is perfectly optimized to "
+"support all the latest trends in SEO on-page optimization. View Live Preview:"
+" https://demo.thememattic.com/best-education and For Documentation: https:"
+"//docs.thememattic.com/best-education"
+msgstr ""
+
+#: inc/about/about.php:77
+msgid ""
+"Best Education is widget based Theme. Best Education has some pre designed "
+"custom additional layout."
+msgstr ""
+
+#: inc/customizer/customizer.php:40
+msgid "Best Education Pro"
+msgstr ""
+
+#: inc/customizer/theme-option.php:588
+msgid "Blog Title Text"
+msgstr ""
+
+#: inc/customizer/theme-option.php:553
+msgid "Blog/Event Tab Section Settings"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1225
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1439
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1456
+msgid "Breadcrumb Type"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: inc/customizer/theme-option.php:291
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:50
+msgid "Buy Now"
+msgstr ""
+
+#: inc/customizer/theme-option.php:525
+msgid "Callback Button Text"
+msgstr ""
+
+#: inc/customizer/theme-option.php:438
+msgid "Callback Section Settings"
+msgstr ""
+
+#: inc/template-tags.php:53
+msgid "Categorized in :"
+msgstr ""
+
+#: inc/customizer/theme-option.php:235 inc/customizer/theme-option.php:808
+#: inc/customizer/theme-option.php:977
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/theme-option.php:622
+msgid "Category For Blog Tab"
+msgstr ""
+
+#: inc/customizer/theme-option.php:678
+msgid "Category For Event Tab"
+msgstr ""
+
+#: inc/customizer/theme-option.php:271
+msgid "Category for Slides"
+msgstr ""
+
+#: inc/customizer/theme-option.php:849 inc/customizer/theme-option.php:1019
+msgid "Category for Testimonial "
+msgstr ""
+
+#: inc/layout-meta/layout-meta.php:66
+#: inc/layout-meta/post-type-layout-meta.php:66
+msgid "Check To Use Featured Image As Banner Image"
+msgstr ""
+
+#: inc/about/about.php:122
+msgid "Child Theme"
+msgstr ""
+
+#: inc/widgets/widget-base-class.php:278
+msgid "Choose Image"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1171
+msgid "Circle"
+msgstr ""
+
+#: comments.php:47 comments.php:70
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:89
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post title
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. Name of the template
+msgid "Contact Form"
+msgstr ""
+
+#: inc/custom-functions.php:172
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1508
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: inc/customizer/theme-option.php:109
+msgid "Contact Number"
+msgstr ""
+
+#: inc/customizer/theme-option.php:31
+msgid "Contact Page Options"
+msgstr ""
+
+#: inc/about/about.php:104 inc/about/about.php:107
+msgid "Contact Support"
+msgstr ""
+
+#: inc/layout-meta/layout-meta.php:80 inc/customizer/theme-option.php:1245
+msgid "Content - Primary Sidebar"
+msgstr ""
+
+#. %s: Name of current post.
+#: template-parts/content.php:50
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:100
+msgid "Copyright All right reserved"
+msgstr ""
+
+#: inc/about/about.php:70
+msgid "Customize"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:760
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1190
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1379
+msgid "Default (Older / Newer Post)"
+msgstr ""
+
+#: inc/about/about.php:27 inc/about/about.php:83 inc/about/about.php:86
+msgid "Demo Content"
+msgstr ""
+
+#: inc/widgets/widgets.php:196
+msgid "Description:"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1411
+msgid "Disable footer sidebar area"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1461
+msgid "Disabled"
+msgstr ""
+
+#: inc/widgets/widgets.php:64
+msgid "Discription:"
+msgstr ""
+
+#: inc/about/class.about.php:126
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/widget-init.php:25 inc/widget-init.php:35 inc/widget-init.php:46
+msgid "Displays items on footer section."
+msgstr ""
+
+#: inc/widgets/widgets.php:49
+msgid "Displays message details in post."
+msgstr ""
+
+#: inc/widgets/widgets.php:185
+msgid "Displays social menu if you have set it(social menu)"
+msgstr ""
+
+#: inc/custom-functions.php:167
+msgid "Education Connect"
+msgstr ""
+
+#: inc/customizer/theme-option.php:127
+msgid "Email Address"
+msgstr ""
+
+#: header.php:182
+msgid "Email us"
+msgstr ""
+
+#: inc/customizer/theme-option.php:320
+msgid "Enable About Section"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1204
+msgid "Enable Banner Overlay"
+msgstr ""
+
+#: inc/customizer/theme-option.php:570
+msgid "Enable Blog/Event Section"
+msgstr ""
+
+#: inc/customizer/theme-option.php:455
+msgid "Enable Callback Section"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1104
+msgid "Enable Fix Page Button"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1050
+msgid "Enable Footer Fix Section"
+msgstr ""
+
+#: inc/customizer/theme-option.php:57
+msgid "Enable Header Contact Section"
+msgstr ""
+
+#: inc/customizer/theme-option.php:144
+msgid "Enable Nav Overlay"
+msgstr ""
+
+#: inc/customizer/theme-option.php:508
+msgid "Enable Page Link Button"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1489
+msgid "Enable PageLoader"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1327
+msgid "Enable Single Header Meta Data"
+msgstr ""
+
+#: inc/customizer/theme-option.php:171
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1187
+msgid "Enable Static Page Content"
+msgstr ""
+
+#: inc/customizer/theme-option.php:879
+msgid "Enable Team"
+msgstr ""
+
+#: inc/customizer/theme-option.php:705
+msgid "Enable Testimonial"
+msgstr ""
+
+#: inc/customizer/theme-option.php:639
+msgid "Event Title Text"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1286
+msgid "Excerpt Only"
+msgstr ""
+
+#: inc/widgets/widgets.php:77
+msgid "Facebook URL:"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1033
+msgid "Footer Call to Action Settings"
+msgstr ""
+
+#: inc/widget-init.php:23
+msgid "Footer Column One"
+msgstr ""
+
+#: inc/widget-init.php:44
+msgid "Footer Column Three"
+msgstr ""
+
+#: inc/widget-init.php:33
+msgid "Footer Column Two"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1429
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1389
+msgid "Footer Options"
+msgstr ""
+
+#: inc/about/about.php:124
+msgid ""
+"For advanced theme customization, it is recommended to use child theme "
+"rather than modifying the theme file itself."
+msgstr ""
+
+#: inc/layout-meta/layout-meta.php:95 inc/customizer/theme-option.php:1307
+#: inc/customizer/theme-option.php:1346
+msgid "Full"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1287
+msgid "Full Post"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1224
+msgid "Full Width"
+msgstr ""
+
+#: inc/about/class.about.php:126
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: inc/about/about.php:24
+msgid "Getting Started"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1242
+msgid "Global Layout"
+msgstr ""
+
+#: inc/widgets/widgets.php:87
+msgid "Googleplus URL:"
+msgstr ""
+
+#: inc/about/about.php:106
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to "
+"ask your query is the dedicated Support forum for the theme."
+msgstr ""
+
+#: inc/customizer/theme-option.php:40
+msgid "Header Options"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:246
+msgid "Home"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1221
+msgid "Home Page Layout"
+msgstr ""
+
+#: inc/customizer/theme-option.php:23
+msgid "Homepage Options"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://thememattic.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://thememattic.com/theme/best-education"
+msgstr ""
+
+#: inc/customizer/theme-option.php:762 inc/customizer/theme-option.php:933
+msgid ""
+"If you are using selection \"from page\" option please refresh to get actual "
+"no of page"
+msgstr ""
+
+#: inc/customizer/theme-option.php:189
+msgid ""
+"If you are using selection \"from page\" option please refresh to get actual "
+"no of page(max 3)"
+msgstr ""
+
+#: inc/widgets/widgets.php:69
+msgid "Image:"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/hooks/blog-event-tab-section.php:81
+msgid "Know More"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:59
+msgid "Latest Blog"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1149
+msgid "Layout Management"
+msgstr ""
+
+#: inc/layout-meta/layout-meta.php:54
+#: inc/layout-meta/post-type-layout-meta.php:54
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:34 inc/about/about.php:125
+#: inc/hooks/testimonial-section.php:123 inc/hooks/calback-section-1.php:62
+msgid "Learn More"
+msgstr ""
+
+#: inc/template-tags.php:59
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/layout-meta/layout-meta.php:98 inc/customizer/theme-option.php:1309
+#: inc/customizer/theme-option.php:1348
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/theme-option.php:91
+msgid "Location"
+msgstr ""
+
+#: inc/widget-init.php:11
+msgid "Main Sidebar"
+msgstr ""
+
+#: inc/about/class.about.php:341 inc/about/class.about.php:382
+msgid "Manage Plugins"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:759
+#: assets/libraries/breadcrumbs/breadcrumbs.php:815
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1186
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/customizer/theme-option.php:74
+msgid "Move Logo To Center"
+msgstr ""
+
+#: inc/widgets/widgets.php:59
+msgid "Name:"
+msgstr ""
+
+#: comments.php:53 comments.php:76
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/layout-meta/layout-meta.php:104
+msgid "No Image"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1310 inc/customizer/theme-option.php:1349
+msgid "No image"
+msgstr ""
+
+#: inc/customizer/theme-option.php:354
+msgid "No of words for Introduction Page"
+msgstr ""
+
+#: inc/customizer/theme-option.php:404
+msgid "No of words for Parallax Section"
+msgstr ""
+
+#: inc/layout-meta/layout-meta.php:83 inc/customizer/theme-option.php:1247
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:191
+msgid "Note: Displays social menu if you have set it(social menu)"
+msgstr ""
+
+#: inc/customizer/theme-option.php:405
+msgid ""
+"Note: If our plugin Education Connect is active the category will be "
+"displayed form Course post types"
+msgstr ""
+
+#: inc/customizer/theme-option.php:571
+msgid ""
+"Note: If our plugin Education Connect is active the category will be "
+"displayed form event post types"
+msgstr ""
+
+#: inc/customizer/theme-option.php:880
+msgid ""
+"Note: If our plugin Education Connect is active the category will be "
+"displayed form team post types"
+msgstr ""
+
+#: inc/customizer/theme-option.php:706
+msgid ""
+"Note: If our plugin Education Connect is active the category will be "
+"displayed form testimonial post types"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1406
+msgid "Number Of Footer Widget"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1380
+msgid "Numeric"
+msgstr ""
+
+#: comments.php:51 comments.php:74
+msgid "Older Comments"
+msgstr ""
+
+#: inc/custom-functions.php:177 inc/about/about.php:85 inc/about/about.php:139
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/hooks/header-inner-page.php:41
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer/customizer-default.php:60
+msgid "Our Events"
+msgstr ""
+
+#: header.php:207
+msgid "Our Location"
+msgstr ""
+
+#: inc/customizer/theme-option.php:234 inc/customizer/theme-option.php:807
+#: inc/customizer/theme-option.php:976
+msgid "Page"
+msgstr ""
+
+#. %s is the page number.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1472
+msgid "Pageloader Options"
+msgstr ""
+
+#: template-parts/content-single.php:38 template-parts/content-page.php:39
+#: template-parts/content.php:54 template-parts/content.php:90
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1358
+msgid "Pagination Options"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1375
+msgid "Pagination Type"
+msgstr ""
+
+#: header.php:155
+msgid "Phone us"
+msgstr ""
+
+#: inc/about/about.php:52 inc/about/about.php:115
+msgid ""
+"Please check our full documentation for detailed information on how to setup "
+"and customize the theme."
+msgstr ""
+
+#: functions.php:63 header.php:232
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/layout-meta/layout-meta.php:77 inc/customizer/theme-option.php:1246
+msgid "Primary Sidebar - Content"
+msgstr ""
+
+#: inc/template-tags.php:35
+#, php-format
+msgid "Published by : %s"
+msgstr ""
+
+#: inc/template-tags.php:30
+#, php-format
+msgid "Published on : %s"
+msgstr ""
+
+#: inc/hooks/blog-event-tab-section.php:168
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/customizer/theme-option.php:743
+#, php-format
+msgid "Recommended Size %1$dpx X %2$dpx"
+msgstr ""
+
+#: inc/widgets/widget-base-class.php:289
+msgctxt "Remove Button"
+msgid "X"
+msgstr ""
+
+#: inc/customizer/theme-option.php:292
+msgid "Removing text will disable button on the slider"
+msgstr ""
+
+#: inc/customizer/theme-option.php:526 inc/customizer/theme-option.php:1122
+msgid ""
+"Removing the text from this section will disable the custom button on "
+"callback section"
+msgstr ""
+
+#: inc/layout-meta/layout-meta.php:101 inc/customizer/theme-option.php:1308
+#: inc/customizer/theme-option.php:1347
+msgid "Right"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Roboto, translate this to 'off'. Do not translate into your own language.
+#: functions.php:148
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#. %s is the search query. The HTML entities are opening and closing curly quotes.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/hooks/header-inner-page.php:46
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer/theme-option.php:915
+msgid "Section Sub Title"
+msgstr ""
+
+#: inc/customizer/theme-option.php:724 inc/customizer/theme-option.php:898
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/theme-option.php:472
+msgid "Select Callback Page"
+msgstr ""
+
+#: inc/customizer/theme-option.php:427
+msgid "Select Category For Courses"
+msgstr ""
+
+#: inc/customizer/theme-option.php:371
+msgid "Select Category for Featured Block"
+msgstr ""
+
+#: inc/customizer/theme-option.php:623
+msgid "Select category to be shown as blogs"
+msgstr ""
+
+#: inc/customizer/theme-option.php:372 inc/customizer/theme-option.php:428
+msgid "Select category to be shown as featured page below about section"
+msgstr ""
+
+#: inc/customizer/theme-option.php:272
+msgid "Select category to be shown on slider "
+msgstr ""
+
+#: inc/customizer/theme-option.php:850 inc/customizer/theme-option.php:1020
+msgid "Select category to be shown on tab "
+msgstr ""
+
+#: inc/customizer/theme-option.php:1068
+msgid "Select Footer Fix Page"
+msgstr ""
+
+#: inc/widgets/widget-base-class.php:278
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer/theme-option.php:337
+msgid "Select Introduction Page"
+msgstr ""
+
+#: inc/customizer/theme-option.php:188
+msgid "Select no of Slider"
+msgstr ""
+
+#: inc/customizer/theme-option.php:932
+msgid "Select no of team"
+msgstr ""
+
+#: inc/customizer/theme-option.php:761
+msgid "Select no of testimonial"
+msgstr ""
+
+#: inc/customizer/theme-option.php:211
+msgid "Select no of words in Slides"
+msgstr ""
+
+#: inc/customizer/theme-option.php:604
+msgid "Select no words for Blog"
+msgstr ""
+
+#: inc/customizer/theme-option.php:655
+msgid "Select no words for Events"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1085
+msgid "Select no words for Footer Fix Section"
+msgstr ""
+
+#: inc/customizer/theme-option.php:489
+msgid "Select no words of Callback"
+msgstr ""
+
+#: inc/customizer/theme-option.php:954
+msgid "Select no words of Team"
+msgstr ""
+
+#: inc/customizer/theme-option.php:784
+msgid "Select no words of testimonial"
+msgstr ""
+
+#: inc/customizer/theme-option.php:389
+msgid "Select Page for Parallax Section"
+msgstr ""
+
+#: inc/customizer/theme-option.php:230
+msgid "Select Slides From"
+msgstr ""
+
+#: inc/customizer/theme-option.php:972
+msgid "Select team From"
+msgstr ""
+
+#: inc/customizer/theme-option.php:803
+msgid "Select testimonial From"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1264
+msgid "Set Global Archive Length"
+msgstr ""
+
+#: inc/widgets/widgets.php:73
+msgid "Signature Image:"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1462
+msgid "Simple"
+msgstr ""
+
+#: inc/layout-meta/layout-meta.php:91
+msgid "Single Page/Post Image Layout"
+msgstr ""
+
+#: inc/layout-meta/layout-meta.php:73
+msgid "Single Page/Post Layout"
+msgstr ""
+
+#: inc/layout-meta/layout-meta.php:22
+msgid "Single Page/Post Settings"
+msgstr ""
+
+#: inc/layout-meta/post-type-layout-meta.php:22
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1343
+msgid "Single Post/Page Image Alocation"
+msgstr ""
+
+#: header.php:55
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/theme-option.php:154
+msgid "Slider Section Settings"
+msgstr ""
+
+#: inc/customizer/theme-option.php:251
+msgid "Slides From Page"
+msgstr ""
+
+#: inc/customizer/theme-option.php:1166
+msgid "Social Icon Style"
+msgstr ""
+
+#: functions.php:65
+msgid "Social Menu"
+msgstr ""
+
+#: inc/widgets/widgets.php:244
+msgid ""
+"Social menu is not set. You need to create menu and assign it to Social Menu "
+"on Menu Settings."
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer/theme-option.php:1170
+msgid "Square"
+msgstr ""
+
+#: inc/about/about.php:59 inc/about/about.php:62
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/about/about.php:25
+msgid "Support"
+msgstr ""
+
+#: inc/template-tags.php:84
+msgid "Tagged in :"
+msgstr ""
+
+#: inc/customizer/theme-option.php:994
+msgid "Team From Page"
+msgstr ""
+
+#: inc/customizer/theme-option.php:862
+msgid "Team Section Settings"
+msgstr ""
+
+#: inc/customizer/theme-option.php:825
+msgid "Testimonial From Page"
+msgstr ""
+
+#: inc/customizer/theme-option.php:742
+msgid "Testimonial Section Background Image."
+msgstr ""
+
+#: inc/customizer/theme-option.php:688
+msgid "Testimonial Section Settings"
+msgstr ""
+
+#: functions.php:107
+msgid "Theme Demo Content"
+msgstr ""
+
+#: inc/about/about.php:33
+msgid "Theme Details"
+msgstr ""
+
+#: inc/about/about.php:50 inc/about/about.php:113
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/customizer/theme-option.php:14 inc/about/about.php:67
+msgid "Theme Options"
+msgstr ""
+
+#: inc/about/about.php:91
+msgid "Theme Preview"
+msgstr ""
+
+#: inc/about/about.php:134
+msgid ""
+"Theme supports some helpful WordPress plugins to enhance your site. But, "
+"please enable only those plugins which you need in your site. For example, "
+"enable Contact Form 7 only if you are using it."
+msgstr ""
+
+#: inc/about/about.php:69
+msgid ""
+"Theme uses Customizer API for theme options. Using the Customizer you can "
+"easily customize different aspects of the theme."
+msgstr ""
+
+#: footer.php:137
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#. Author of the theme
+msgid "Thememattic"
+msgstr ""
+
+#: inc/widgets/widgets.php:54 inc/widgets/widgets.php:190
+msgid "Title:"
+msgstr ""
+
+#: inc/about/about.php:61
+msgid ""
+"To achieve custom home page other than blog listing, you need to create and "
+"set static front page."
+msgstr ""
+
+#: inc/about/about.php:139
+#, php-format
+msgid ""
+"To import demo content for this theme, %1$s plugin is needed. Please make "
+"sure plugin is installed and activated. After plugin is activated, you will "
+"see Import Demo Data menu under Appearance."
+msgstr ""
+
+#: functions.php:64
+msgid "Top Menu"
+msgstr ""
+
+#: inc/widgets/widgets.php:82
+msgid "Twitter URL:"
+msgstr ""
+
+#: inc/customizer/customizer.php:41
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/about/about.php:145
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/widgets/widget-base-class.php:278
+msgid "Upload"
+msgstr ""
+
+#: inc/customizer/theme-option.php:543
+msgid "URL Link"
+msgstr ""
+
+#: inc/about/about.php:26
+msgid "Useful Plugins"
+msgstr ""
+
+#: inc/about/about.php:37 inc/about/about.php:94
+msgid "View Demo"
+msgstr ""
+
+#: inc/about/about.php:41 inc/about/about.php:53 inc/about/about.php:116
+msgid "View Documentation"
+msgstr ""
+
+#: footer.php:193
+msgid "View More"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:86
+msgid "View Our Courses"
+msgstr ""
+
+#: inc/about/about.php:78
+msgid "View Widgets"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:65
+msgid "Voice Of Students"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/about/class.about.php:126
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s. To fully take advantage of the best "
+"our theme can offer please make sure you visit theme info page."
+msgstr ""
+
+#: inc/customizer/customizer-default.php:75
+msgid "Who are we?"
+msgstr ""
+
+#: inc/about/about.php:75
+msgid "Widget Ready"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:758
+#: assets/libraries/breadcrumbs/breadcrumbs.php:787
+#: assets/libraries/breadcrumbs/breadcrumbs.php:814
+#: assets/libraries/breadcrumbs/breadcrumbs.php:841
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1182
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/about/about.php:93
+msgid ""
+"You can check out the theme demos for reference to find out what you can "
+"achieve using the theme and how it can be customized."
+msgstr ""
+
+#: inc/about/about.php:144
+msgid "You can upgrade to pro version of the theme for more exciting features."
+msgstr ""
